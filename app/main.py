@@ -1,8 +1,8 @@
 import os
 import sys
+from pathlib import Path
 
 from dotenv import load_dotenv
-from pathlib import Path
 
 # Load environment variables from the .env file.
 load_dotenv()  
