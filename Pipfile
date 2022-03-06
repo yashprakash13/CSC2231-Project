@@ -12,6 +12,8 @@ python-dotenv = "*"
 black = "*"
 isort = "*"
 jupyter = "*"
+matplotlib = "*"
+pillow = "*"
 
 [dev-packages]
 
